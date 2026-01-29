@@ -21,7 +21,7 @@ This is a basic Mini Compiler developed in C++ as part of a compiler design proj
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/mini-compiler.git
+   git clone https://github.com/AyushKumar40/NextGen-Smart-Compiler.git
    cd mini-compiler
    ```
 2. Run the compiler on a sample source file:
@@ -45,4 +45,5 @@ This is a basic Mini Compiler developed in C++ as part of a compiler design proj
 
 
 ```
+
 # NextGen-Smart-Compiler
