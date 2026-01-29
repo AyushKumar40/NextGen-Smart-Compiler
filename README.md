@@ -23,20 +23,25 @@ This is a basic Mini Compiler developed in C++ as part of a compiler design proj
    ```bash
    git clone https://github.com/yourusername/mini-compiler.git
    cd mini-compiler
+   ```
 2. Run the compiler on a sample source file:
    ```bash
-   gcc filename.c -o filename && ./filename goel.mini
+   gcc filename.c -o filename && ./filename pbl.mini
+   ```
 3. run the python library for UI :
    ```bash
    python app.py
+   ```
 
 ## PROJECT STRUCTURE
-   ```bash
-   ├── lexer.l         # Lexical analyzer
+
+```bash
+├── lexer.l         # Lexical analyzer
 ├── parser.y        # Syntax parser
 ├── symbol_table.h  # Symbol table logic
 ├── main.cpp        # Driver code
 ├── Makefile
 └── sample.txt      # Sample input code
 
-   
+
+```
